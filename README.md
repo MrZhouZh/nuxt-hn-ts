@@ -1,6 +1,7 @@
 # Nuxt Hacker News
 
-Hacker News clone built with [Nuxt](https://nuxt.com).
+Hacker News clone built with [Nuxt](https://nuxt.com). Forked by https://github.com/nuxt/hackernews
+
 
 <p align="center">
   <a href="https://hn.nuxt.space" target="_blank">
