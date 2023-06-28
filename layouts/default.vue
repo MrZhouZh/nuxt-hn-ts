@@ -38,7 +38,7 @@ useHead({
         </NuxtLink>
         <span class="github">
           <a
-            href="https://github.com/nuxt/hackernews"
+            href="https://github.com/MrZhouZh/nuxt-hn-ts"
             target="_blank"
             rel="noopener banner"
           >
