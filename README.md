@@ -4,7 +4,7 @@ Hacker News clone built with [Nuxt](https://nuxt.com). Forked by https://github.
 
 
 <p align="center">
-  <a href="https://hn.nuxt.space" target="_blank">
+  <a href="https://nuxt-hn-ts.vercel.app" target="_blank">
     <img width="1090" src="https://hn.nuxt.space/cover.jpg">
     <br>
     Live Demo
@@ -13,11 +13,11 @@ Hacker News clone built with [Nuxt](https://nuxt.com). Forked by https://github.
 
 ## Demo
 
-https://hn.nuxt.space
+https://nuxt-hn-ts.vercel.app
 
 > Hosted on [Vercel](https://vercel.com/): `npm run build`
 
-To disable server-side render for a page, simply append `?csr` to the URL, example: https://hn.nuxt.space/news/1?csr
+To disable server-side render for a page, simply append `?csr` to the URL, example: https://nuxt-hn-ts.vercel.app/news/1?csr
 
 ## Performance
 
